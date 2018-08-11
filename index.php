@@ -475,6 +475,24 @@
 			<div class="timeline">
 
         <div class="date-title">
+          <span>2018</span>
+        </div>
+        <div class="row"> 
+          <div class="col-sm-6 news-item right">
+            <div class="news-content">
+              <h2 class="news-title">Snap</h2> 
+              <span>Programador</span>
+              <p class="justificado">
+                Julio 2018 – Agosto 2018. Parte del equipo de programaci&oacute;n en el desarrollo del sistema para control y env&iacute;o de mensajes de texto.
+              </p>
+              <a class="read-more" href="https://bitbucket.org/pieri017/sinapsis/" target="_blank">
+                Repositorio Snap
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="date-title">
           <span>2017</span>
         </div>
         <div class="row"> 
