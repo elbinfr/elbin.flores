@@ -604,9 +604,13 @@
                   <p>RPC (051) 987 300 897</p>
               </div>
               <div class="detail">
+                  <h4 class="letra-gris"><i class="fa fa-skype"></i> Skype</h4>
+                  <p>elbin.flores88</p>
+              </div>
+              <div class="detail">
                   <h4 class="letra-gris"><i class="fa fa-envelope"></i> Mi Correo</h4>
                   <p>elbinfr.88@gmail.com</p>
-              </div> 
+              </div>
           </div>
           <ul class="social_links">
             <li class="twitter">
