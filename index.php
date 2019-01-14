@@ -163,8 +163,6 @@
   <div class="container">
    <div class="row">
       <div class="col-sm-1 col-md-1">
-      </div>
-      <div class="col-sm-1 col-md-1">
         <img src="img/java.png" alt="">
         <p class="centrado">
           <strong>Java</strong>
@@ -226,6 +224,16 @@
         </p>
       </div>
       <div class="col-sm-1 col-md-1">
+        <img src="img/python.png" alt="">
+        <p class="centrado">
+          <strong>Python</strong>
+        </p>
+      </div>
+      <div class="col-sm-1 col-md-1">
+        <img src="img/django.png" alt="">
+        <p class="centrado">
+          <strong>Django</strong>
+        </p>
       </div>
   	</div>
   <div>
@@ -477,13 +485,29 @@
         <div class="date-title">
           <span>2018</span>
         </div>
+
         <div class="row"> 
+          <div class="col-sm-6 news-item">
+            <div class="news-content">
+              <h2 class="news-title">Mowa</h2> 
+              <span>Programador</span>
+              <p class="justificado">
+                Octubre 2018 – Diciembre 2018 (3 meses). Parte del equipo de programaci&oacute;n en el desarrollo del sistema CRM, utilizando el framework django 2.1.
+              </p>
+              <a class="read-more" href="https://github.com/mowaconsultora/MowaCollectorCRM" target="_blank">
+                Repositorio MowaCollectorCRM
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">           
           <div class="col-sm-6 news-item right">
             <div class="news-content">
               <h2 class="news-title">Snap</h2> 
               <span>Programador</span>
               <p class="justificado">
-                Julio 2018 – Agosto 2018. Parte del equipo de programaci&oacute;n en el desarrollo del sistema para control y env&iacute;o de mensajes de texto.
+                Julio 2018 – Agosto 2018. Parte del equipo de programaci&oacute;n en el desarrollo del sistema para control y env&iacute;o de mensajes de texto. Se utiliz&oacute; el framework Laravel.
               </p>
               <a class="read-more" href="https://bitbucket.org/pieri017/sinapsis/" target="_blank">
                 Repositorio Snap
@@ -595,10 +619,6 @@
       <div class="row">
         <div class="col-lg-4 wow fadeInLeft">	
       		 <div class="contact_info">
-              <div class="detail">
-                  <h4 class="letra-gris"><i class="fa fa-home"></i> Direcci&oacute;n</h4>
-                  <p>Pj. 20 de Septiembre #428, Florencia de Mora, Trujillo, Per&uacute;</p>
-              </div>
               <div class="detail">
                   <h4 class="letra-gris"><i class="fa fa-mobile"></i> Mi N&uacute;mero</h4>
                   <p>RPC (051) 987 300 897</p>
